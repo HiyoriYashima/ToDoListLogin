@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoListLogin</string>
+    <string name="Login">ログイン</string>
+    <string name="userid">ユーザーID</string>
+    <string name="username">名前</string>
+    <string name="userpass">パスワード</string>
+    <string name="newregister">※新規登録する場合は、名前とパスワードのみを入力</string>
+    <string name="back">戻る</string>
+    <string name="aaa">aaa</string>
+</resources>
